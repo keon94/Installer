@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GenericInstaller.DirectoryForm" Collapsed="true">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAGAAABAAAACBAQAiAAAAAAAAAAAAAKAIAAA=</HashCode>
+      <FileName>DirectoryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GenericInstaller.FinishForm" Collapsed="true">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>FinishForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GenericInstaller.InstallerForm" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAAAAAAAAABACAIAAAAAAAAAACAAAAIIAA=</HashCode>
+      <FileName>InstallerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GenericInstaller.InstallProcessor" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQBAAAAAAAAAAAAAAAAAAAAABAAAMAIAAAAAAAAA=</HashCode>
+      <FileName>InstallProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GenericInstaller.Program" Collapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GenericInstaller.ProgressForm" Collapsed="true">
+    <Position X="9.25" Y="2" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="GenericInstaller.ProgressForm.UpdateProgressBarLabel" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ProgressForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QhgQACAQACAAAAIAAACIAIACAAAAAAAAAAAARAAAAAI=</HashCode>
+      <FileName>ProgressForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GenericInstaller.StartingForm" Collapsed="true">
+    <Position X="11.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAGAAABAAAACAAAAiAAAAAAAAEAAABAAAAAA=</HashCode>
+      <FileName>StartingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GenericInstaller.SummaryForm" Collapsed="true">
+    <Position X="13.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAGAAABAAAACBAAAiAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>SummaryForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GenericInstaller.Properties.Resources" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GenericInstaller.Properties.Settings" Collapsed="true">
+    <Position X="18" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
