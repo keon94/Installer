@@ -1,6 +1,0 @@
-F:\Keon\My Documents\Visual Studio 2013\Projects\GetAirportICAO\GetAirportICAO\bin\Debug\GetAirportICAO.exe.config
-F:\Keon\My Documents\Visual Studio 2013\Projects\GetAirportICAO\GetAirportICAO\obj\Debug\GetAirportICAO.csprojResolveAssemblyReference.cache
-F:\Keon\My Documents\Visual Studio 2013\Projects\GetAirportICAO\GetAirportICAO\bin\Debug\GetAirportICAO.exe
-F:\Keon\My Documents\Visual Studio 2013\Projects\GetAirportICAO\GetAirportICAO\bin\Debug\GetAirportICAO.pdb
-F:\Keon\My Documents\Visual Studio 2013\Projects\GetAirportICAO\GetAirportICAO\obj\Debug\GetAirportICAO.exe
-F:\Keon\My Documents\Visual Studio 2013\Projects\GetAirportICAO\GetAirportICAO\obj\Debug\GetAirportICAO.pdb
